@@ -1,0 +1,9 @@
+substitute -> s
+
+sed s /old_word/new_word/ <file to use>"new file"
+
+
+sed s/day/night/ <old >new
+
+
+sed -r s/[0-9]/" ****"/

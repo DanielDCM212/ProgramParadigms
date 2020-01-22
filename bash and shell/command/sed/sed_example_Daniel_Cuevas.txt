@@ -1,0 +1,23 @@
+# sed is a Unix utility that parses and transforms text, using a simple,
+#     compact programming language
+#	s/regexp/replacement/
+#              If a s/// has done a successful substitution since the last input line was read and
+#              If no s/// has done a successful substitution since the last input  line  was  read
+
+
+sed 's/[[:lower:]]/a/g' archivo.txt all lower letters from archivo.txt will be  remplace with the letter a
+
+# cat archivo.txt
+hola1 hola-1 hola-2
+hola2 hola-1 hola-2
+hola3 hola-1 hola-2
+hola4 hola-1 hola-2
+hola5 hola-1 hola-2
+
+# sed 's/[[:lower:]]/a/g' archivo.txt
+aaaa1 aaaa-1 aaaa-2
+aaaa2 aaaa-1 aaaa-2
+aaaa3 aaaa-1 aaaa-2
+aaaa4 aaaa-1 aaaa-2
+aaaa5 aaaa-1 aaaa-2
+

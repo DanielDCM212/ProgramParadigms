@@ -1,0 +1,23 @@
+INFO  time: initialize in 1.22s
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/tri.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/triangle.scala
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+oct 28, 2019 6:55:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+oct 28, 2019 6:55:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 1.14s
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/tri.scala
+INFO  no build target: using presentation compiler with only scala-library
+INFO  shutting down Metals

@@ -1,0 +1,1 @@
+Prolog in Data Science and problems of classification with logic.

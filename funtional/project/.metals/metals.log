@@ -1,0 +1,82 @@
+INFO  time: initialize in 1.17s
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+oct 30, 2019 3:52:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+oct 30, 2019 4:11:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 817
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/dataset.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/dataset.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/dataset.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/dataset.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/dataset.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/dataset.scala
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/dataset.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/dataset.scala
+INFO  shutting down Metals
+INFO  time: initialize in 1.12s
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/dataset.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/dataset.scala
+INFO  shutting down Metals
+INFO  time: initialize in 1.08s
+WARN  no build tool detected in workspace '/home/lux/Documentos/Program paradigms/funtional/project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/dataset.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /home/lux/Documentos/Program paradigms/funtional/project/Spark/scrip.scala
+INFO  shutting down Metals

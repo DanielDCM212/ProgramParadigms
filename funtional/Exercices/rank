@@ -1,0 +1,72 @@
+Hackerank Exercices
+
+Functions and Fractals: Sierpinski triangles
+
+---------------scala----------------
+
+object Solution {
+    def drawTriangles(k: Int, level: Int): List[String] = {
+        if (level==0) {
+            (1 to k).map(x => "_"*(k-x)+"1"*(2*x-1)+"_"*(k-x)).toList
+        } else {
+            drawTriangles(k/2, level-1).map(x => "_"*(k/2)+x+"_"*(k/2)) ++ drawTriangles(k/2, level-1).map(x=>x+"_"+x)
+        }
+    }
+
+    def main(args: Array[String]) {
+        var level = readInt()
+        drawTriangles(32,level) map println
+    }
+}
+
+---------------------------------------------------------------------------------------------
+
+Lambda Calculus - Reductions #3
+
+((λx.(x x))(λx.(x x))) 
+
+CAN'T REDUCE
+---------------------------------------------------------------------------------------------
+
+Lambda Calculus - Reductions #4
+
+(λg.((λf.((λx.(f (x x)))(λx.(f (x x))))) g)) 
+
+CAN'T REDUCE
+
+---------------------------------------------------------------------------------------------
+
+Lambda Calculus - Evaluating Expressions #4
+
+Compute the value of λx.λy.x(xy).
+
+2
+
+---------------------------------------------------------------------------------------------
+
+Lambda Calculus - Evaluating Expressions #5
+
+Compute the value of λx.λy.y.
+
+0
+
+---------------------------------------------------------------------------------------------
+------Scala-------
+
+Hello World N Times
+
+bject Solution extends App {
+
+def f(k: Int){
+    if(k!=0){
+    println("Hello World")
+    f(k-1)
+    }
+}
+
+  var n = scala.io.StdIn.readInt
+  f(n)
+}
+
+	
+---------------------------------------------------------------------------------------------
